@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on any ML / Deeplearning projects or opportunities
 - ✍🏻 I write at: [Medium/AnalyticsVidhya](https://medium.com/@vaibhavhaswani)
 - 💬 Ask me about anything
-- 📫 How to reach me: [Instagram](www.instagram.com/haswani.vaibhav) [Twitter](https://twitter.com/HaswaniVaibhav) [Linkedin](https://www.linkedin.com/in/vaibhav-haswani-2078b888/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/haswani.vaibhav) [Twitter](https://twitter.com/HaswaniVaibhav) [Linkedin](https://www.linkedin.com/in/vaibhav-haswani-2078b888/)
