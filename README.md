@@ -1,5 +1,5 @@
-###  Bounjour camarades!! 🖐🏻
-***I'm an AI Practitioner / Django Developer / Techinical Writer / Musician
+##  Bounjour camarades!! 🖐🏻
+###### I'm an AI Practitioner / Django Developer / Techinical Writer / Musician
 
 - 🛠 I’m currently working on Dog Vision Project at: [Dog-Vison](https://dog-vision.herokuapp.com/)
 - 💻 I’m currently learning Natual Language Processing and Scaling Deeplearning projects
