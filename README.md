@@ -1,8 +1,8 @@
 ##  Bounjour camarades!! 🖐🏻
 ###### I'm an AI Practitioner / Django Developer / Techinical Writer / Musician
 
-- 🛠 I’m currently working on Dog Vision Project at: [Dog-Vison](https://dog-vision.herokuapp.com/)
-- 💻 I’m currently learning Natual Language Processing and Scaling Deeplearning projects
+- 🛠 I’m currently working on Scaling AI systems to mobile devices
+- 💻 I’m currently learning Natual Language Processing and Android Development with Kotlin
 - 👯 I’m looking to collaborate on any ML / Deeplearning projects or opportunities
 - ✍🏻 I write at: [Medium/AnalyticsVidhya](https://medium.com/@vaibhavhaswani)
 - 💬 Ask me about anything
