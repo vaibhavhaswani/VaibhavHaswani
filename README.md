@@ -1,9 +1,11 @@
 ##  Bounjour camarades!! 🖐🏻
-###### I'm an AI Practitioner / Django Developer / Techinical Writer / Musician
+###### I'm an AI Practitioner / Webapp Developer / Techinical Writer / Musician
 
 - 🛠 I’m currently working on Scaling AI systems to mobile devices
 - 💻 I’m currently learning Natual Language Processing and Android Development with Kotlin
+- 📟 I code with Python , Javascript , Kotlin , Java , C/C++ etc.
+- 🔧 I create Desktop/Console/Web/Mobile apps , Websites , ML models , deployable ai systems etc. (Songs and Music tracks too)
 - 👯 I’m looking to collaborate on any ML / Deeplearning projects or opportunities
-- ✍🏻 I write at: [Medium/AnalyticsVidhya](https://medium.com/@vaibhavhaswani)
+- ✍🏻 I write to: [Medium/AnalyticsVidhya](https://medium.com/@vaibhavhaswani)
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/haswani.vaibhav) [Twitter](https://twitter.com/HaswaniVaibhav) [Linkedin](https://www.linkedin.com/in/vaibhav-haswani-2078b888/)
