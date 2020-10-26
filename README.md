@@ -4,7 +4,7 @@
 - 🛠 I’m currently working on Scaling AI systems to mobile devices
 - 💻 I’m currently learning Natual Language Processing and Android Development with Kotlin
 - 📟 I code with Python , Javascript , Kotlin , Java , C/C++ etc.
-- 🔧 I create Desktop/Console/Web/Mobile apps , Websites , ML models , deployable ai systems etc. (Songs and Music tracks too)
+- 🔧 I create Desktop/Console/Web/Mobile apps , Websites, deployable ai systems etc. (Songs and Music tracks too)
 - 👯 I’m looking to collaborate on any ML / Deeplearning projects or opportunities
 - ✍🏻 I write to: [Medium/AnalyticsVidhya](https://medium.com/@vaibhavhaswani)
 - 💬 Ask me about anything
