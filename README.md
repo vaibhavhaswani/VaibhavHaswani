@@ -2,7 +2,7 @@
 ##### I'm an AI Practitioner /  Software Engineer / Techinical Writer 
 
 - 🛠 I’m currently working on Scaling AI systems to mobile devices
-- 💻 I’m currently learning Natual Language Processing and Advanced Statistics
+- 💻 I’m currently learning Generative Modelling
 - 📟 I code with Python ,NodeJs/Javascript , Kotlin , Java , C/C++ etc.
 - 🔧 I create Desktop/Console/Web/Mobile apps, Analytical/AI Solutions, Scripts, Websites, deployable ai systems etc. (For fun , Songs and Music tracks too)
 - 🤝 I’m looking to collaborate on any technical projects or opportunities
