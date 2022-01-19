@@ -1,5 +1,5 @@
 ##  Bounjour camarades!! 🖐🏻
-##### I'm an AI Practitioner /  Software Engineer / Techinical Writer 
+##### I'm an AI / ML Engineer
 
 - 🛠 I’m currently working on Scaling AI systems to mobile devices
 - 💻 I’m currently learning Generative Modelling
