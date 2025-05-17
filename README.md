@@ -1,4 +1,6 @@
-# 👋 Heyo, I'm Vaibhav Haswani (vhx) — GenAI Architect | From Token to Tensor — RAGs, LLMs, APIs, Docker, VectorDBs, MLOps & Beyond ⚙️. 
+# 👋 Heyo, I'm Vaibhav Haswani (vhx) 
+
+## "GenAI Architect | From Token to Tensor — RAGs, LLMs, APIs, Docker, VectorDBs, MLOps & Beyond ⚙️" 
 
 I’m a Software Engineer at **PayPal**, crafting intelligent, scalable, and privacy-first AI systems — from idea to production.  
 I engineer GenAI systems that **understand your data, automate decision-making, and stay compliant** — across development, deployment, and optimization.
@@ -60,7 +62,7 @@ I engineer GenAI systems that **understand your data, automate decision-making, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-haswani-2078b888/)  
 - 📬 vaibhavhaswani@gmail.com  
-- 🌍 [vhx.github.io](https://vhx.github.io) *(Coming soon? Happy to help you build it)*
+- 🌍 [vhx.github.io](https://vhx.github.io) *(Coming soon)*
 
 ---
 
