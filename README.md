@@ -62,7 +62,7 @@ I engineer GenAI systems that **understand your data, automate decision-making, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-haswani-2078b888/)  
 - 📬 vaibhavhaswani@gmail.com  
-- 🌍 [vhx.github.io](https://vhx.github.io) *(Coming soon)*
+- 🌍 [vaibhavhaswani.github.io](https://vaibhavhaswani.github.io)
 
 ---
 
