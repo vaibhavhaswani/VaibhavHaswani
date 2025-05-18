@@ -1,4 +1,4 @@
-# 👋 Heyo, I'm Vaibhav Haswani (vhx) 
+# Hey Geekies, I'm Vaibhav Haswani (vhx) 
 
 ## "GenAI Architect | From Token to Tensor — RAGs, LLMs, APIs, Docker, VectorDBs, MLOps & Beyond ⚙️" 
 
